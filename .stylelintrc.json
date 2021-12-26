@@ -1,0 +1,15 @@
+{
+    "extends": [
+        "stylelint-config-standard",
+        "stylint-order-config-standard"
+    ],
+    "plugins": [
+        "stylint-order"
+    ],
+    "rules": {
+        "indentation": [
+            "tab"
+        ],
+        "color-hex-case": "upper"
+    }
+}
